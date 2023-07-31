@@ -5,6 +5,7 @@ This repository contains the code and analysis for credit risk classification us
 - credit_risk_classification.ipynb: Jupyter Notebook containing the analysis code, including data preprocessing, model training, and evaluation.                 
 - Resources: Folder containing the dataset and resources used in the analysis.             
   - lending_data.csv: CSV file containing the loan data used in the analysis.
+- report.md
 
 ## Overview of the Analysis
 The analysis in credit_risk_classification.ipynb is structured as follows:       
